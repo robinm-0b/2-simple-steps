@@ -57,6 +57,7 @@ How to select and make it as searchable?
 Two simple steps:
 
 1. Movement/editing/writing Hotkeys:
+
 h	move left
 j	move down
 k	move up
